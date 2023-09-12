@@ -4,9 +4,7 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielarrupes&layout=compact&langs_count=7&theme=calm"/>
   </div>
 
-  <div align="center">
-      <img src="https://luk4x-github-readme-stats.vercel.app/api/wakatime?username=gabrielarrupes&langs_count=8&theme=tokyonight&hide_border=true&custom_title=Coding%20time%20in%20the%20last%202%20weeks&range=all_time" />
-  </div>
+
   
  ## Linguagens e outras tecnologias.
   
